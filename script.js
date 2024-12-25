@@ -11,7 +11,7 @@ document.getElementById('registerForm').addEventListener('submit', async functio
 
   try {
     // Replace YOUR_API_URL 
-    const response = await fetch('https://sheetdb.io/api/v1/chaz960zhofr2', {
+    const response = await fetch('https://sheetdb.io/api/v1/k28vnnls7hby0', {
       method: 'POST',
       body: JSON.stringify(formData), 
       headers: { 'Content-Type': 'application/json' },
